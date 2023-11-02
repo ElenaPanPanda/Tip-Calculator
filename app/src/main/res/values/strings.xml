@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="insert_bill_value">Insert Bill Value</string>
+    <string name="bill_value">Bill Value: $</string>
+    <string name="tip">Tip: 15%</string>
+    <string name="tip_amount_start">Tip Amount: $</string>
+    <string name="tip_amount">Tip Amount: $%1$s</string>
+    <string name="tip_calculator">Tip Calculator</string>
+    <string name="final_amount_start">Final Amount: $</string>
+    <string name="final_amount">Final Amount: $%1$s</string>
+</resources>
